@@ -1,4 +1,4 @@
-**Documentation for Food Choice Task - PsychoPy Builder and Pavlovia Version**
+**Documentation for Online Food Choice Task - PsychoPy Builder and Pavlovia Version**
 =============================================================
 
 This repository contains materials to run the Columbia Center for Eating Disorders Food Choice Task that captures eating behaviour.

@@ -34,7 +34,7 @@ This experiment is designed for both online and local use. Below, you'll find a 
 
 #### Version 3: Local version of the task
 
-- **Link:** [FCT Local Version]()
+- **Link:** [FCT Local Version](https://github.com/lucija-blazevski/Food-Choice-Task/blob/main/FCT_ENG_local/FCT_ENG_local_task/FCT_ENG_local.psyexp)
 - **Description:** This version of the task is designed for local use. The experimenter will need to input the participant ID and select the condition from a dropdown menu provided in the interface.
 
 *Note*: For detailed information on forking/cloning experiments from Pavlovia, please refer to the Pavlovia documentation available at [https://pavlovia.org/docs/experiments/create-fork](https://pavlovia.org/docs/experiments/create-fork).
